@@ -20,4 +20,4 @@ Packages: *pandas numpy matplotlib pyomo pypsa oemof geopandas cartopy rasterio*
 16) Transforming Wind Speed to potential Wind Turbine Yield and Capacity Factor
 17) Trasnforming Solar Direction and Irradiation to Solar Panel Yield
 18) Evaluating the Optimal Modules and Strings for PV Array Design
-19) Energy System Modelling using Oemof for Simple and Complex Energy Systems
+19) Energy System Modelling using Oemof for Simple Energy Systems
