@@ -1,6 +1,6 @@
 # Energy_Projects
 
-Packages: *pandas numpy matplotlib pyomo pypsa oemof geopandas cartopy rasterio*
+Packages: *pandas numpy matplotlib pyomo pypsa oemof geopandas cartopy rasterio atlite*
 
 1) Conversion of Wind Speeds to Power Output of a Wind Turbine
 2) Time series analysis of wind capacity factors
@@ -18,5 +18,5 @@ Packages: *pandas numpy matplotlib pyomo pypsa oemof geopandas cartopy rasterio*
 14) Technology Diffusion and Prediction Modeling of EVs in California
 15) Optimal Power Plant Dispatch Optimization
 16) Transforming Wind Speed to potential Wind Turbine Yield and Capacity Factor
-17) Trasnforming Solar Direction and Irradiation to Solar Panel Yield. Designing the Optimal Modules and Strings for PV Array
+17) Transforming Solar Direction and Irradiation to Solar Panel Yield. Designing the Optimal Modules and Strings for PV Array
 18) Energy System Modelling using Oemof for Simple Energy Systems
