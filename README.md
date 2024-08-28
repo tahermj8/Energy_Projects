@@ -1,4 +1,4 @@
-# Energy_Projects
+# Masters_Projects
 
 Packages: *pandas numpy matplotlib pyomo pypsa oemof geopandas cartopy rasterio atlite*
 
@@ -14,9 +14,9 @@ Packages: *pandas numpy matplotlib pyomo pypsa oemof geopandas cartopy rasterio 
 10) Merit Order Plotting for Power Plants
 11) Electricity Market Modelling
 12) Domestic Hydrogen Production & Hydrogen Imports Optimization
-13) South Korea - 100% Renewable Electricity System Modelling and Optimization (Major Project)
 14) Technology Diffusion and Prediction Modeling of EVs in California
 15) Optimal Power Plant Dispatch Optimization
 16) Transforming Wind Speed to potential Wind Turbine Yield and Capacity Factor
 17) Transforming Solar Direction and Irradiation to Solar Panel Yield. Designing the Optimal Modules and Strings for PV Array
 18) Energy System Modelling using Oemof for Simple Energy Systems
+South Korea - 100% Renewable Electricity System Modelling and Optimization (Major Project)
